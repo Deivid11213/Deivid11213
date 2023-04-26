@@ -1,7 +1,7 @@
 ### Hi there 👋
-@@ -1 +1,21 @@
-#Deivid  _
-#  💫 Acerca de mí:
+
+Iam Deivid 
+  💫 Acerca de mí:
 actualmente estoy trabajando en mis propios proyectos<br>Estoy buscando colaborar con otros desarrolladores<br>estoy aprendiendo desarrollo web<br>pregúntame sobre diseño web. usabilidad<br>busco trabajo en equipo ⭐
 
 
