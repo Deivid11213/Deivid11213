@@ -1,6 +1,16 @@
+
 # Hola 👋 Soy Deivid
-# 💫 About Me:
-im currently working on my own projects<br>Im looking to collaborate with others developer<br>im currenly learnig web development<br>ask me about webdesign . usability<br>im looking for team working ⭐
+
+# 💫 Sobre mí:
+- 💻 Actualmente soy desarrollador frontend
+- 🌱 Estoy estudiando para convertirme en un desarrollador fullstack
+- 🔭 Trabajando en mis propios proyectos
+- 👯 Busco colaborar con otros desarrolladores
+- 🌐 Aprendiendo desarrollo web
+- 💡 Pregúntame sobre diseño web y usabilidad
+- 🌟 Interesado en trabajar en equipo ⭐
+
+No dudes en contactarme para oportunidades de colaboración o si tienes alguna pregunta relacionada con diseño web, usabilidad o cualquier otra cosa. ¡Creemos algo increíble juntos! ⭐
 
 
 ## 🌐 Socials:
